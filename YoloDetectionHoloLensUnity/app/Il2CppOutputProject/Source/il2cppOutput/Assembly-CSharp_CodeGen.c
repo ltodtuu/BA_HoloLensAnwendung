@@ -1,0 +1,167 @@
+﻿#include "il2cpp-config.h"
+
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+IL2CPP_EXTERN_C_BEGIN
+IL2CPP_EXTERN_C_END
+
+
+
+
+// 0x00000001 System.Void YoloDetectionHoloLens.YoloDetection::Start()
+extern void YoloDetection_Start_m2213099EF893F1B0050F6CC12C9F4DD8383F6919 ();
+// 0x00000002 System.Void YoloDetectionHoloLens.YoloDetection::OnApplicationQuit()
+extern void YoloDetection_OnApplicationQuit_m6A1736D565DEB45593ED0C16A19AE48A29A377F0 ();
+// 0x00000003 System.Threading.Tasks.Task YoloDetectionHoloLens.YoloDetection::StartHoloLensMediaFrameSourceGroup()
+extern void YoloDetection_StartHoloLensMediaFrameSourceGroup_m6125D3DFC68D2683495149A91E4B5B2F28A305F7 ();
+// 0x00000004 System.Threading.Tasks.Task YoloDetectionHoloLens.YoloDetection::StopHoloLensMediaFrameSourceGroup()
+extern void YoloDetection_StopHoloLensMediaFrameSourceGroup_mD6B32FF012FC6FD8F3C3E35E12C2CBEF3FA6A933 ();
+// 0x00000005 System.Collections.IEnumerator YoloDetectionHoloLens.YoloDetection::ConnectSocket()
+extern void YoloDetection_ConnectSocket_m7E8DFE7099ECBF475A8BC8D23322AD17674FA469 ();
+// 0x00000006 System.Void YoloDetectionHoloLens.YoloDetection::InitializeHandler()
+extern void YoloDetection_InitializeHandler_m39D449D3810CE283420F77E7E0FD1605EFFA0673 ();
+// 0x00000007 System.Void YoloDetectionHoloLens.YoloDetection::GestureRecognizer_Tapped(UnityEngine.XR.WSA.Input.TappedEventArgs)
+extern void YoloDetection_GestureRecognizer_Tapped_m36613AC9F634E60546F013B8E50AE989AFDD47C8 ();
+// 0x00000008 System.Void YoloDetectionHoloLens.YoloDetection::CloseHandler()
+extern void YoloDetection_CloseHandler_m6341FB9F96C4353C4D846D88C029B7232371F752 ();
+// 0x00000009 System.Void YoloDetectionHoloLens.YoloDetection::.ctor()
+extern void YoloDetection__ctor_m9A918BB846D7B59D28F1F51A24048E03014C9238 ();
+// 0x0000000A System.Void YoloDetectionHoloLens.YoloDetection_<Start>d__17::MoveNext()
+extern void U3CStartU3Ed__17_MoveNext_mEA3C34532E698E93497366121035D67C0FF078DA_AdjustorThunk ();
+// 0x0000000B System.Void YoloDetectionHoloLens.YoloDetection_<Start>d__17::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CStartU3Ed__17_SetStateMachine_m285A3AA2515F2545D5BEC354A70FD03C4E3CAD2B_AdjustorThunk ();
+// 0x0000000C System.Void YoloDetectionHoloLens.YoloDetection_<OnApplicationQuit>d__18::MoveNext()
+extern void U3COnApplicationQuitU3Ed__18_MoveNext_mBFA3020146C1436A0229EF0FD0BDB110A7209EBC_AdjustorThunk ();
+// 0x0000000D System.Void YoloDetectionHoloLens.YoloDetection_<OnApplicationQuit>d__18::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3COnApplicationQuitU3Ed__18_SetStateMachine_mE70A78707B374E94BC8881F28E0DB1FE370FCD5B_AdjustorThunk ();
+// 0x0000000E System.Void YoloDetectionHoloLens.YoloDetection_<StartHoloLensMediaFrameSourceGroup>d__19::MoveNext()
+extern void U3CStartHoloLensMediaFrameSourceGroupU3Ed__19_MoveNext_mC4742EC564E8BB4518A13B1EA7FF65C1103D915C_AdjustorThunk ();
+// 0x0000000F System.Void YoloDetectionHoloLens.YoloDetection_<StartHoloLensMediaFrameSourceGroup>d__19::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CStartHoloLensMediaFrameSourceGroupU3Ed__19_SetStateMachine_mC949D4C5D8AC21F972D35E8480180973764B7DCD_AdjustorThunk ();
+// 0x00000010 System.Void YoloDetectionHoloLens.YoloDetection_<StopHoloLensMediaFrameSourceGroup>d__20::MoveNext()
+extern void U3CStopHoloLensMediaFrameSourceGroupU3Ed__20_MoveNext_mAAA32F4E6D9099355B27C411F95A135A7F890BF2_AdjustorThunk ();
+// 0x00000011 System.Void YoloDetectionHoloLens.YoloDetection_<StopHoloLensMediaFrameSourceGroup>d__20::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CStopHoloLensMediaFrameSourceGroupU3Ed__20_SetStateMachine_mE58BC5D2A6F7E89217F1587BC6529784DDD4BC01_AdjustorThunk ();
+// 0x00000012 System.Void YoloDetectionHoloLens.YoloDetection_<ConnectSocket>d__21::.ctor(System.Int32)
+extern void U3CConnectSocketU3Ed__21__ctor_m276D99A670D1D03AA65A899CC37FBCE7C628B8F7 ();
+// 0x00000013 System.Void YoloDetectionHoloLens.YoloDetection_<ConnectSocket>d__21::System.IDisposable.Dispose()
+extern void U3CConnectSocketU3Ed__21_System_IDisposable_Dispose_m21442EA85C34A5CF524E82047DCF196D4B4C4800 ();
+// 0x00000014 System.Boolean YoloDetectionHoloLens.YoloDetection_<ConnectSocket>d__21::MoveNext()
+extern void U3CConnectSocketU3Ed__21_MoveNext_m12EF0E1B460131A7AE42DA343AE4D471DDDC6833 ();
+// 0x00000015 System.Object YoloDetectionHoloLens.YoloDetection_<ConnectSocket>d__21::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+extern void U3CConnectSocketU3Ed__21_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m9BE38B2FA44364C7B9CB220399A7DBD1CBE4B759 ();
+// 0x00000016 System.Void YoloDetectionHoloLens.YoloDetection_<ConnectSocket>d__21::System.Collections.IEnumerator.Reset()
+extern void U3CConnectSocketU3Ed__21_System_Collections_IEnumerator_Reset_mD7DEA717FC1342C98DD690FF8A91535C41D98E15 ();
+// 0x00000017 System.Object YoloDetectionHoloLens.YoloDetection_<ConnectSocket>d__21::System.Collections.IEnumerator.get_Current()
+extern void U3CConnectSocketU3Ed__21_System_Collections_IEnumerator_get_Current_m48CED55CCBEA8F4C3D8F1242FB0D6CA2F25A9ADE ();
+// 0x00000018 System.Void YoloDetectionHoloLens.CvUtils::.ctor()
+extern void CvUtils__ctor_mC45B7515B719BB6225F3DE4E25B38A647109C199 ();
+// 0x00000019 System.Void DrawingUtils.DrawBoundingBoxes::InitDrawBoundingBoxes()
+extern void DrawBoundingBoxes_InitDrawBoundingBoxes_m7E3B2FEE87F65F6D8022A27E2CAE6D5B68A996D2 ();
+// 0x0000001A System.Void DrawingUtils.DrawBoundingBoxes::DrawBoxes(System.Collections.Generic.List`1<YoloRuntime.BoundingBox>)
+extern void DrawBoundingBoxes_DrawBoxes_mBF91D848C6332C38633F6E64F2D9864AAEE605AF ();
+// 0x0000001B System.Void DrawingUtils.DrawBoundingBoxes::.ctor()
+extern void DrawBoundingBoxes__ctor_m6F3B3B0AE3DAB87235B25CEF40D82ECA09D71CE6 ();
+// 0x0000001C UnityEngine.Texture2D DrawingUtils.Texture2DExtension::Box(UnityEngine.Texture2D,UnityEngine.Vector2,UnityEngine.Vector2,UnityEngine.Color)
+extern void Texture2DExtension_Box_m9D12FC71B72445631754346EF2E1BFB9D0568746 ();
+// 0x0000001D UnityEngine.Texture2D DrawingUtils.Texture2DExtension::Line(UnityEngine.Texture2D,UnityEngine.Vector2,UnityEngine.Vector2,UnityEngine.Color)
+extern void Texture2DExtension_Line_mA1E0B540A88277013555C23E9B3355CEAE2CC96F ();
+// 0x0000001E UnityEngine.Texture2D DrawingUtils.Texture2DExtension::TransparentTexture(UnityEngine.Texture2D)
+extern void Texture2DExtension_TransparentTexture_m69BD7C2533E5B64B8BB217DBCD5878F3D9D52F8C ();
+// 0x0000001F System.Void DrawingUtils.Texture2DExtension::.ctor()
+extern void Texture2DExtension__ctor_m9FB36E0F9F39B15BDE1445322F120A298F8CF977 ();
+static Il2CppMethodPointer s_methodPointers[31] = 
+{
+	YoloDetection_Start_m2213099EF893F1B0050F6CC12C9F4DD8383F6919,
+	YoloDetection_OnApplicationQuit_m6A1736D565DEB45593ED0C16A19AE48A29A377F0,
+	YoloDetection_StartHoloLensMediaFrameSourceGroup_m6125D3DFC68D2683495149A91E4B5B2F28A305F7,
+	YoloDetection_StopHoloLensMediaFrameSourceGroup_mD6B32FF012FC6FD8F3C3E35E12C2CBEF3FA6A933,
+	YoloDetection_ConnectSocket_m7E8DFE7099ECBF475A8BC8D23322AD17674FA469,
+	YoloDetection_InitializeHandler_m39D449D3810CE283420F77E7E0FD1605EFFA0673,
+	YoloDetection_GestureRecognizer_Tapped_m36613AC9F634E60546F013B8E50AE989AFDD47C8,
+	YoloDetection_CloseHandler_m6341FB9F96C4353C4D846D88C029B7232371F752,
+	YoloDetection__ctor_m9A918BB846D7B59D28F1F51A24048E03014C9238,
+	U3CStartU3Ed__17_MoveNext_mEA3C34532E698E93497366121035D67C0FF078DA_AdjustorThunk,
+	U3CStartU3Ed__17_SetStateMachine_m285A3AA2515F2545D5BEC354A70FD03C4E3CAD2B_AdjustorThunk,
+	U3COnApplicationQuitU3Ed__18_MoveNext_mBFA3020146C1436A0229EF0FD0BDB110A7209EBC_AdjustorThunk,
+	U3COnApplicationQuitU3Ed__18_SetStateMachine_mE70A78707B374E94BC8881F28E0DB1FE370FCD5B_AdjustorThunk,
+	U3CStartHoloLensMediaFrameSourceGroupU3Ed__19_MoveNext_mC4742EC564E8BB4518A13B1EA7FF65C1103D915C_AdjustorThunk,
+	U3CStartHoloLensMediaFrameSourceGroupU3Ed__19_SetStateMachine_mC949D4C5D8AC21F972D35E8480180973764B7DCD_AdjustorThunk,
+	U3CStopHoloLensMediaFrameSourceGroupU3Ed__20_MoveNext_mAAA32F4E6D9099355B27C411F95A135A7F890BF2_AdjustorThunk,
+	U3CStopHoloLensMediaFrameSourceGroupU3Ed__20_SetStateMachine_mE58BC5D2A6F7E89217F1587BC6529784DDD4BC01_AdjustorThunk,
+	U3CConnectSocketU3Ed__21__ctor_m276D99A670D1D03AA65A899CC37FBCE7C628B8F7,
+	U3CConnectSocketU3Ed__21_System_IDisposable_Dispose_m21442EA85C34A5CF524E82047DCF196D4B4C4800,
+	U3CConnectSocketU3Ed__21_MoveNext_m12EF0E1B460131A7AE42DA343AE4D471DDDC6833,
+	U3CConnectSocketU3Ed__21_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m9BE38B2FA44364C7B9CB220399A7DBD1CBE4B759,
+	U3CConnectSocketU3Ed__21_System_Collections_IEnumerator_Reset_mD7DEA717FC1342C98DD690FF8A91535C41D98E15,
+	U3CConnectSocketU3Ed__21_System_Collections_IEnumerator_get_Current_m48CED55CCBEA8F4C3D8F1242FB0D6CA2F25A9ADE,
+	CvUtils__ctor_mC45B7515B719BB6225F3DE4E25B38A647109C199,
+	DrawBoundingBoxes_InitDrawBoundingBoxes_m7E3B2FEE87F65F6D8022A27E2CAE6D5B68A996D2,
+	DrawBoundingBoxes_DrawBoxes_mBF91D848C6332C38633F6E64F2D9864AAEE605AF,
+	DrawBoundingBoxes__ctor_m6F3B3B0AE3DAB87235B25CEF40D82ECA09D71CE6,
+	Texture2DExtension_Box_m9D12FC71B72445631754346EF2E1BFB9D0568746,
+	Texture2DExtension_Line_mA1E0B540A88277013555C23E9B3355CEAE2CC96F,
+	Texture2DExtension_TransparentTexture_m69BD7C2533E5B64B8BB217DBCD5878F3D9D52F8C,
+	Texture2DExtension__ctor_m9FB36E0F9F39B15BDE1445322F120A298F8CF977,
+};
+static const int32_t s_InvokerIndices[31] = 
+{
+	23,
+	23,
+	14,
+	14,
+	14,
+	23,
+	1709,
+	23,
+	23,
+	23,
+	26,
+	23,
+	26,
+	23,
+	26,
+	23,
+	26,
+	32,
+	23,
+	95,
+	14,
+	23,
+	14,
+	23,
+	23,
+	26,
+	23,
+	1710,
+	1710,
+	0,
+	23,
+};
+extern const Il2CppCodeGenModule g_AssemblyU2DCSharpCodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharpCodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	31,
+	s_methodPointers,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+};
